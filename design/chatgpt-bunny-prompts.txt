@@ -1,0 +1,74 @@
+PETAL BUNNY CHARACTER PROMPTS
+
+============================================================
+PROMPT 1 — CREATE A STYLE COMPARISON
+============================================================
+
+Upload both original rabbit reference photos, then paste this prompt:
+
+Create an original character-design comparison sheet for a mobile calorie-tracking app.
+
+Use the uploaded rabbit photos only as high-level visual inspiration for recognizable rabbit anatomy and traits: floppy lop ears, a compact round body, tiny front paws, cocoa-brown and cream fur, soft cheeks, and a small pink nose. Do not trace, copy, composite, or directly edit the reference photos.
+
+Show three clearly labeled art directions:
+
+1. Polished pixel art — a detailed modern game sprite, approximately 128×128 in appearance, with clean pixel clusters. It must not look blocky, geometric, or abstract.
+
+2. Cute low-poly 3D — rounded plush proportions, tasteful faceted forms, dimensional fur shapes, and soft studio lighting.
+
+3. Kawaii illustrated sticker — smooth shapes, an expressive face, a clean dark-brown outline, and polished mobile-app mascot quality.
+
+For each direction, show the same recognizable lop-eared bunny character in three states:
+
+SLEEPY:
+Sitting or curled up with a drooping posture, relaxed floppy ears, half-closed eyes, and an obviously tired expression.
+
+STRONG:
+Standing upright and looking confident and energetic, adorably flexing its front paws. It should look strong while remaining cute and unmistakably rabbit-like.
+
+SAD / OVERFULL:
+A slumped posture, downturned expression, drooping ears, and a slightly overstuffed tummy. The expression should feel sympathetic and gentle rather than distressed.
+
+Keep the character’s markings, proportions, colors, facial features, and lop-ear shape consistent across all nine designs.
+
+Use a warm cocoa-brown, cream, dusty-pink, and dark-chocolate palette suitable for a dark-mode app.
+
+Every design must immediately read as a real floppy-eared rabbit. It must not resemble a bear, cat, blob, human, or generic fantasy creature.
+
+Present the nine concepts in a clean 3-column × 3-row comparison sheet, with style names across the top and mood names along the side.
+
+Use a plain neutral background. Do not include an app interface, scenery, food, logos, accessories, or text other than the style and mood labels. Avoid photorealism.
+
+
+============================================================
+PROMPT 2 — CREATE THE FINAL PRODUCTION SPRITES
+============================================================
+
+After choosing a direction from the comparison sheet, paste this prompt:
+
+Using option [INSERT OPTION NUMBER OR STYLE NAME] from the previous comparison, create a production-ready sprite sheet of that exact original bunny character.
+
+Include three poses:
+
+1. Sleepy
+2. Strong
+3. Sad / overfull
+
+Preserve identical fur markings, cocoa-and-cream palette, body proportions, floppy-ear shape, facial features, line treatment, lighting, and rendering style across all three sprites.
+
+The poses must remain clearly different:
+
+- Sleepy: low energy, drooping posture, relaxed ears, and half-closed eyes.
+- Strong: upright, confident, energetic, and adorably flexing its front paws.
+- Sad / overfull: slumped, drooping ears, sympathetic expression, and a slightly full tummy.
+
+Center each sprite inside an equal square cell with generous and consistent padding.
+
+Use a genuinely transparent background. Include no labels, borders, scenery, food, logos, accessories, floor, or shadows extending outside the sprite cells.
+
+Keep the full character visible in every cell. Do not crop ears, paws, or body parts.
+
+Make the three sprites large, crisp, and high resolution for use in a mobile web application. Maintain clear readability when each sprite is displayed at approximately 160×160 pixels.
+
+Output the sprite sheet as a PNG with transparency.
+

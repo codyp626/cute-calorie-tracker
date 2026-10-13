@@ -1,0 +1,23 @@
+services:
+  petal:
+    build:
+      context: .
+    ports:
+      - "127.0.0.1:5011:8080"
+    read_only: true
+    tmpfs:
+      - /var/cache/nginx:size=8m,mode=0755
+      - /var/run:size=1m,mode=0755
+      - /tmp:size=4m,mode=1777
+    security_opt:
+      - no-new-privileges:true
+    cap_drop:
+      - ALL
+    cap_add:
+      - CHOWN
+      - SETGID
+      - SETUID
+    mem_limit: 64m
+    cpus: 0.25
+    pids_limit: 32
+    restart: unless-stopped
